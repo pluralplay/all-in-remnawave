@@ -1,4 +1,4 @@
-# Сборник ссылок all-in-remnawave
+# Полезные репозитории для Remnawave (all-in-remnawave)
 
 ## Документация
 [Официальный сайт с документацией](https://remna.st)
