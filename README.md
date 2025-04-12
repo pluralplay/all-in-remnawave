@@ -1,4 +1,5 @@
 # all-in-remnawave
-Коммерция:
+# Коммерция:
+---
 [Автоматическая установка панели (скрипт от eGames)](https://github.com/eGamesAPI/remnawave-reverse-proxy/)
 
