@@ -8,3 +8,6 @@
 
 ## Коммерция:
 [Магазин для продажи подписок (Telegram Bot)](https://github.com/Jolymmiles/remnawave-telegram-shop)
+
+## Файлы конфигурации клиентов, роутинга, Sub-page
+[Полезности от legiz](https://github.com/legiz-ru/my-remnawave)
