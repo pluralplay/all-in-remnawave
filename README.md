@@ -11,3 +11,6 @@
 
 ## Файлы конфигурации клиентов, роутинга, Sub-page
 [Полезности от legiz](https://github.com/legiz-ru/my-remnawave)
+
+## Полезное для панели
+[Страница подписки для Telegram Mini-App (на основе стандартной Remnawave Subscription Page)](https://github.com/maposia/remnawave-telegram-sub-mini-app)
